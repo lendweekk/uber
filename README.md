@@ -6,7 +6,7 @@ Or look at the result on this link below!
 
 https://lendweekk.github.io/uber/
 
-Сайт был создан при помощи:
+The site was created with the help of:
 
 Html&Css
 
